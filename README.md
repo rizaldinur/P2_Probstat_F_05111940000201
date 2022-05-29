@@ -45,16 +45,19 @@ Kategorisasi tabel berdasarkan kolom 'Group' sesuai instruksi soal.
 Gambar plot kuantil untuk grup1
 
 ![image](https://user-images.githubusercontent.com/81168295/170872837-3ef72e3b-7fa6-4c55-96ae-781c3cdef4f8.png)
+
 ![image](https://user-images.githubusercontent.com/81168295/170872849-21a185d3-5d7b-4012-aea0-eaa70369a89e.png)
 
 Gambar plot kuantil untuk grup2
 
 ![image](https://user-images.githubusercontent.com/81168295/170872880-86fb2e47-c28f-4008-a0e8-3ba5f926b0d9.png)
+
 ![image](https://user-images.githubusercontent.com/81168295/170872892-85a41a0d-de1f-49a3-bb1c-36cc91113fc8.png)
 
 Gambar plot kuantil untuk grup3
 
 ![image](https://user-images.githubusercontent.com/81168295/170872917-8eb8d95b-d231-4b23-bb14-8146820d3623.png)
+
 ![image](https://user-images.githubusercontent.com/81168295/170872932-ea6878eb-a9d5-419d-a419-2bb1a2a1f805.png)
 
 
@@ -69,6 +72,7 @@ Analisis : p value lebih dari 0.05. Berarti hipotesis 0 diterima. Artinya, varia
 Buat linear model, lalu lakukan ANOVA.
 
 ![image](https://user-images.githubusercontent.com/81168295/170873306-1ab874a7-94ab-41ac-a21a-ad186ec99273.png)
+
 ![image](https://user-images.githubusercontent.com/81168295/170873517-205bf2f9-9142-485c-8fdb-9d609dbcde36.png)
 
 
@@ -95,6 +99,7 @@ Import data terlebih dahulu utuk dilakukan plotting.
 Lalu buat plottingan
 
 ![image](https://user-images.githubusercontent.com/81168295/170874068-307a42ec-79ef-4e67-82c3-be5f358b6727.png)
+
 ![image](https://user-images.githubusercontent.com/81168295/170874073-2fde8bc6-7bb7-4aed-9a91-1b789e83ec10.png)
 
 ## 5b
