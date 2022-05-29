@@ -69,4 +69,10 @@ Analisis : p value lebih dari 0.05. Berarti hipotesis 0 diterima. Artinya, varia
 Buat linear model, lalu lakukan ANOVA.
 
 ![image](https://user-images.githubusercontent.com/81168295/170873306-1ab874a7-94ab-41ac-a21a-ad186ec99273.png)
+![image](https://user-images.githubusercontent.com/81168295/170873517-205bf2f9-9142-485c-8fdb-9d609dbcde36.png)
 
+
+## 4d
+P-value adalah 0.0013. Karena kurang dari 0.05, Artinya hipotesis nol ditolak.
+
+## 4e
