@@ -114,3 +114,18 @@ Tabel untuk faktor, mean, dan standar deviasi.
 
 ![image](https://user-images.githubusercontent.com/81168295/170874512-b69fec61-bb24-4454-881e-37b3e6f59d4d.png)
 
+## 5d
+Lakukan uji turkey
+
+![image](https://user-images.githubusercontent.com/81168295/170874698-b532f45e-c401-4078-a86d-5b8ffe1175fa.png)
+
+## 5e
+Gunakan fungsi multcompLetters4(). Jangan lupa install package `multcompView`.
+
+![image](https://user-images.githubusercontent.com/81168295/170874840-c41bbde0-e058-480e-9393-d28707281c9e.png)
+
+Lalu tambahkan hasil huruf compact ke table dengan mean dan standar deviasi.
+
+![image](https://user-images.githubusercontent.com/81168295/170874955-255ed55d-48c5-4292-92c7-3a0b71284b42.png)
+
+
