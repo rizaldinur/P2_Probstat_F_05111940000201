@@ -84,6 +84,7 @@ Gunakan fungsi TurkeyHSD
 Gunakan fungsi `ggplot` untuk visualisasi
 
 ![image](https://user-images.githubusercontent.com/81168295/170873716-6345b242-e4ae-44ff-b0ec-eb18dac1dbf5.png)
+
 ![image](https://user-images.githubusercontent.com/81168295/170873725-2225075d-61d9-432e-bb02-385b15f8627d.png)
 
 ## 5a
