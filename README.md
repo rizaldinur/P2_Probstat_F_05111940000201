@@ -76,3 +76,12 @@ Buat linear model, lalu lakukan ANOVA.
 P-value adalah 0.0013. Karena kurang dari 0.05, Artinya hipotesis nol ditolak.
 
 ## 4e
+Gunakan fungsi TurkeyHSD
+
+![image](https://user-images.githubusercontent.com/81168295/170873638-fae92c86-d624-495f-ac5d-4884dab7540d.png)
+
+## 4f
+Gunakan fungsi `ggplot` untuk visualisasi
+
+![image](https://user-images.githubusercontent.com/81168295/170873716-6345b242-e4ae-44ff-b0ec-eb18dac1dbf5.png)
+![image](https://user-images.githubusercontent.com/81168295/170873725-2225075d-61d9-432e-bb02-385b15f8627d.png)
